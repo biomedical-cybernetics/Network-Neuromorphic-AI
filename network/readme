@@ -88,3 +88,5 @@ CUDA_VISIBLE_DEVICES=2  python main.py --num_workers 4  --batch_size 128  --eval
 2.  **GPU Configuration**: If you encounter "CUDA out of memory" errors, try reducing the `--batch_size`.
 3.  **Device Selection**: The commands provided use GPU #2 (`CUDA_VISIBLE_DEVICES=2`). Change this to `0` or another ID depending on your available devices.
 
+The data could be found at http://101.6.93.12:10007/l/uFjZkh
+http://101.6.93.12:10007/l/uFjZkh
