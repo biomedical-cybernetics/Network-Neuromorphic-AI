@@ -1,0 +1,9 @@
+# Generated adjacency and intermediate data
+*.mat
+
+# Generated tables and coordinates
+*_coords.csv
+*_topological_measures.csv
+
+# Generated figures
+*_radial_size.png
