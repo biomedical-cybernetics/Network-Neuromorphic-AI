@@ -1,1 +1,1 @@
-Folder names indicate silenced node numbers in the redundant circuits.
+Folder names indicate the node numbers that are silenced in the redundant circuits.
