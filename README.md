@@ -2,7 +2,7 @@
 
 This repository contains the code and analysis material for the neuromorphic
 neural-network study. The project is organized into three folders:
-
+- [`LTspice`](LTspice/) contains the LTspice circuit files for the neuromorphic dendritic neural network, including the original circuit, redundant circuit configurations, and variants with individual nodes silenced.
 - [`network`](network/) contains the Python/PyTorch model, training and
   evaluation code, saved weights, and example results.
 - [`silencing`](silencing/) contains the component-silencing (ablation) results,
